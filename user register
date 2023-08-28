@@ -1,1 +1,48 @@
-
+[
+  {
+    "form": "string",
+    "owner": {},
+    "roles": [
+      "string"
+    ],
+    "access": [
+      {
+        "type": "string",
+        "resources": [
+          "string"
+        ]
+      }
+    ],
+    "externalIds": [
+      {
+        "type": "string",
+        "resource": "string",
+        "id": "string",
+        "_id": "string",
+        "created": "2023-08-28",
+        "modified": "2023-08-28"
+      }
+    ],
+    "metadata": {},
+    "data": {
+      "email": "string",
+      "password": "string"
+    },
+    "externalTokens": [
+      {
+        "type": "string",
+        "token": "string",
+        "exp": "2023-08-28",
+        "_id": "string"
+      }
+    ],
+    "_id": "string",
+    "created": "2023-08-28",
+    "modified": "2023-08-28",
+    "_fvid": 0,
+    "_frid": "string",
+    "project": "string",
+    "state": "string",
+    "containRevisions": false
+  }
+]
